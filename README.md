@@ -1,5 +1,5 @@
 # Offer-Mega-salest
-> Status:Finished ✅
+> Status: Finished ✅
 
 ## página de exibição de produtos de uma loja online.
 <a href="https://offer-mega-salest.netlify.app/"> Clique para visitar o projeto </a>
